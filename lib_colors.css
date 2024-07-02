@@ -1,0 +1,15 @@
+:root{
+    --menu_background_color: #DBEDDD;
+    --menu_background_color2: #00582B;
+    --main_color: red;
+    --line_color: green;
+    --hamburger_color: white;
+    --manu_text_color: #00582B;
+    --main_menu_text_color: #86C232;
+    --hover_manu_text_color: white;
+    --main_divs_bg_color: whitesmoke;
+    --main_divs_bg_color2: #DFD7D6;
+    --header_white: white;
+    --overlay: #00582B;
+
+}
